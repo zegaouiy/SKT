@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "SKT"
+  site-url: "https://zegaouiy.github.io/SKT"
+  description: "Skill Knowledge Tree"
+  repo-branch: main
+  repo-url: "https://github.com/zegaouiy/SKT"
