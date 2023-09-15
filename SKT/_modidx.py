@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://zegaouiy.github.io',
                 'git_url': 'https://github.com/zegaouiy/SKT',
                 'lib_path': 'SKT'},
-  'syms': {'SKT.core': {'SKT.core.foo': ('core.html#foo', 'SKT/core.py')}}}
+  'syms': {'SKT.core': {'SKT.core.foo': ('core.html#foo', 'SKT/core.py')}, 'SKT.skt': {'SKT.skt.foo': ('core.html#foo', 'SKT/skt.py')}}}
